@@ -1,0 +1,52 @@
+﻿//In The Name Of ALLAH
+//Azure
+
+***why azure??
+
+.Simplify development
+Cut development time and experiment easily with modular, preconfigured networks and infrastructure.
+
+.Get up and running quickly
+Iterate and validate blockchain scenarios quickly by using built-in connections to Azure and tools you’re already familiar with.
+
+.Innovate with confidence
+Keep your data secure and scale when you need to—on an open, trusted, globally available cloud platform.
+
+***Projects? 
+1.EY insurwave for marine insurance - the first blockchain platform of insurance;  security, scalability, and rapid solution building
+2.Webjet transaction disputes in the travel ; using Ethereum on Azure to transform how the travel industry resolves hotel booking disputes in real time
+3.xbox access royalties statements even faster now  ; it dramatically lowered statement access times from 45 days to just minutes
+4.Bühler use blockchain to reduce the crop wasting
+5.banks in singapore collsbrate with microsoft
+6.Interswitch Digital payments company ; Digital payments company
+7.3M uses Azure Blockchain to enable a new label-as-a-service approach for securing their supply chains
+8.Nasdaq brings blockchain to capital markets with Microsoft Azure
+9.J.P. Morgan and Microsoft announce strategic partnership to drive enterprise adoption of Quorum
+
+***open source??
+
+/* .The Confidential Consortium Framework (CCF, formerly coco) is opensource and it's source code is on git hub :
+https://github.com/Azure/coco-framework
+but is that the same as azure ?
+
+.. Over the past year, we have been preparing our Confidential Consortium Framework (CCF) for public release.
+CCF uses trusted execution environments (TEEs) such as SGX and VSM to enable ledgers that integrate with it to execute confidential transactions 
+with the throughput and latency of a centralized database. Confidentiality and high performance are key requirements of our enterprise customers.
+We’re excited to announce that we have finished the first version of CCF, integrated with Quorum, and have made the source code available on Github.
+Microsoft believes that the best way to bring blockchain to our customers is by partnering with the diverse and talented open source communities 
+that are driving blockchain innovation today. We began this journey in 2015, partnering with the growing communities around Ethereum, R3 Corda, 
+and Hyperledgerto make those technologies available in Azure. Instead of building our own ledger, or creating a ledger alternative, we have worked 
+to make open sourcetechnology developerslove and work better with Azure. All of the tooling released this week allows developers to work against both
+consortium networks in Azure Blockchain Service and with public Ethereum.
+“Microsoft has embraced the open community of blockchain developers and has brought the best of their cloud development tooling to the developers building
+the next wave of decentralized applications. With Azure Blockchain Service and Ethereum integrations for tools like VS Code, Microsoft is demonstrating 
+its commitment to open blockchain development.”
+*/
+
+-->> actually YES ,  it's first version is on github: https://github.com/Microsoft/CCF
+
+*** diffrence between cloud ? can we run a code on our computer or should be on his cloud??
+
+actually it's infrastructure is build on azure cloud and is shortly explained in the photo below . after you got your account you can use it as a kafka (developer) or solo wich it means you can build yor block on your computer in it's cloud.
+i don't know what it means that don't use it's cloud ? where do you want to propagate it?
+

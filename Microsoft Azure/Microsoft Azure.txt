@@ -1,0 +1,43 @@
+//In The Name Of ALLAH
+
+//Microsoft Azur
+
+//NOTATIONs : PP : Posetive point , P : point(no matters pos or con) , Q : question , 
+PP.simple interface for members(userfriendly front-end) But how is it secure?
+it is acctually a consortum blockchain platform which can connect to existing evm compliers like remix,truffle
+and it after that it result it diffrent apps like granche
+------------
+Q?how is identifiers off chain( i mean what's the diffrence between this and simple blockchain) ? - who is agent? actually microsoft is the owner of this app? so why don't have access to private key??
+----------
+P.as a result being cocorsum DIDs needs to be verified and accepted by tristed providers
+But timeStates can be verified without need to any other third party.
+for example a university can become a verifier for a part of web ( actually his student)
+----------------
+P.authentication is one of the most important kind of interacting with other DIDs . azure algorithm is that :
+ The external party looks
+up the DID via the DIF Universal Resolver
+(probably by using a DID User Agent app),
+and the resolver returns the matching DPKI
+metadata. The external party generates a
+challenge by using the public key references
+in the DPKI metadata and performs a
+handshake with the user. If the user is
+able to complete the challenge-response
+handshake, it’s been proven that the user
+is the owner of DID in question . 
+sth like public private and signiture
+FIDO/WebAuthn
+-----------------
+P*>DIF Identity Hubs are based on usercontrolled, off-chain, personal datastores
+------------------
+P. you’re not required to
+use a provider for your Identity Hub at
+all: Identity Hubs are open source server
+technology that you can run on any
+device or infrastructure
+
+
+*diffrence bteween cloude & blockchain
+*real projects on azure 
+*is it a platform or we can write our blockchain on our computer on it
+ 
