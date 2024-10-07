@@ -17,6 +17,7 @@ Course Practical Assignments
 4. Final Course Project
 
 * Focused on creating a Proof of Space Blockchain Network as the final project for the course.
+
   
-Important Notice
+# Important Notice
 The repository does not include certain private source code or proprietary implementations from the internship due to confidentiality.
